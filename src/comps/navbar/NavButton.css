@@ -1,0 +1,15 @@
+.navButton {
+  border: none;
+  background-color: black;
+  background-blend-mode: normal;
+  padding: 12px;
+  margin: 12px;
+  font-size: medium;
+  color: white;
+}
+
+.navButton:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}

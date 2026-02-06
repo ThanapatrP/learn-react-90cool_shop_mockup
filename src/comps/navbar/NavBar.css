@@ -1,0 +1,11 @@
+#navBar {
+  padding: 12px;
+  align-items: center;
+  background-color: black;
+  display: flex;
+  color: white;
+}
+
+#logo {
+  height: 10vh;
+}
