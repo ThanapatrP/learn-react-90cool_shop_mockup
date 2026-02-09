@@ -6,6 +6,12 @@ function AboutUs() {
         alt=""
         style={{ width: "100vw" }}
       />
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda
+        saepe modi tempore odio provident velit, id praesentium dicta quasi
+        suscipit architecto, ducimus nihil dolorum impedit, laboriosam amet hic
+        quidem dolores!
+      </p>
     </>
   );
 }

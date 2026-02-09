@@ -6,6 +6,7 @@ import Home from "./views/home/Home";
 import AboutUs from "./views/about/AboutUs";
 
 import NavBar from "./comps/navbar/NavBar";
+import Padder from "./comps/Padder";
 
 import "./App.css";
 

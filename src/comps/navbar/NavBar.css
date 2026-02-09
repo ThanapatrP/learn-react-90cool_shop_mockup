@@ -1,5 +1,9 @@
 #navBar {
-  padding: 12px;
+  position: sticky;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  padding: 16px;
   align-items: center;
   background-color: black;
   display: flex;
@@ -7,5 +11,5 @@
 }
 
 #logo {
-  height: 10vh;
+  height: 64px;
 }

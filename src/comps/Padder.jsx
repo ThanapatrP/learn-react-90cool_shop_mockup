@@ -1,0 +1,5 @@
+function Padder() {
+  return <div style={{ height: "70px" }}></div>;
+}
+
+export default Padder;
