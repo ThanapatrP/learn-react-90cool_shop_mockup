@@ -9,7 +9,7 @@ function NavBar() {
       <img src="src/assets/image.png" alt="90cool-logo" id="logo" />
       <div id="buttons">
         <NavButton name={"HOME"} path="/" />
-        <NavButton name={"PRODUCTS"} path="/" />
+        <NavButton name={"PRODUCTS"} path="/products" />
         <NavButton name={"ABOUTUS"} path="/aboutus" />
       </div>
       <NavSearchBox />

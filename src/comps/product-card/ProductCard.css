@@ -1,0 +1,41 @@
+.productCard {
+  margin: 16px;
+  padding: 32px;
+  border: solid;
+  border-width: 2px;
+  border-color: white;
+  border-radius: 15px;
+  background-color: black;
+  color: white;
+}
+
+.productCard:hover {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+}
+
+.productImage {
+  display: block;
+  margin: auto;
+  height: 200px;
+  width: 300px;
+  object-fit: cover;
+  object-position: cover;
+  border-width: 5px;
+  border-color: black;
+  border-radius: 15px;
+}
+
+.productImage:hover {
+  border-width: 5px;
+  border-color: black;
+  border-radius: 15px;
+}
+
+.productHeader {
+  text-align: center;
+}
+
+.productDetail {
+}
