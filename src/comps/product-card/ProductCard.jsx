@@ -8,7 +8,7 @@ function ProductCard(props) {
   const productName = props.hasOwnProperty("name") ? props.name : "N/A";
 
   return (
-    <div className="productCard">
+    <div className="border-2 border-solid">
       <img className="productImage" src={imageUrl} alt="" />
       <h2 className="productHeader">{productName}</h2>
       <p className="productDetail">TestTestTestTestTestTestTestTestTestTest</p>
